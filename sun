@@ -1,0 +1,7 @@
+sudo
+free -m
+df -h
+uptime
+top
+nohup stress -c 4 -t 400
+
