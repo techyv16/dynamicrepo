@@ -4,4 +4,7 @@ df -h
 uptime
 top
 nohup stress -c 4 -t 400
+$? if zero then it means last command was success
+$? if non zero it means last command was not success
+http 200 eit code show success
 
